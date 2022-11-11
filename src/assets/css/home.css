@@ -1,0 +1,84 @@
+.category-navigation {
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.16);
+}
+
+.category-card span {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.landing-banner img {
+    height: 300px;
+    object-fit: cover;
+}
+
+.landing-content {
+    background-color: #f1f3f6;
+}
+
+.slick-arrow {
+    z-index: 99;
+}
+
+.slick-prev {
+    left: 0px;
+}
+
+.slick-next {
+    right: 0px;
+}
+
+.category-wise-featured {
+    background-color: #fff;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.08);
+}
+
+.category-wise-featured .category-heading button{
+    background-color: #2874f0;
+    color: #fff;
+    border: none;
+    padding: 7px 15px;
+    margin-top: 15px;
+    font-size: 13px;
+    font-weight: 600;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+
+.product-tile {
+    cursor: pointer;
+}
+
+.product-tile:hover {
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+
+.category-wise-featured .product-tile img {
+    height: 200px;
+    width: 150px;
+    object-fit: contain;
+}
+
+.panes {
+    background-color: #fff;
+    border-radius: 3px;
+    padding: 15px 10px;
+}
+
+.left-pane ul {
+    margin-left: 15px;
+}
+.left-pane ul li {
+    cursor: pointer;
+}
+
+.left-pane ul .active {
+    font-weight: 700;
+}
+
+
+.right-pane img {
+    height: 200px;
+    width: 150px;
+    object-fit: contain;
+
+}
