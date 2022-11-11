@@ -1,3 +1,11 @@
+# Dev Environment
+
+DEV OS - Windows 10\
+Node - v18.12.1
+
+# Inital command
+Run `npm i` to install dependencies
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
